@@ -1,0 +1,20 @@
+current directory: C:/Users/Meg/Documents/margaretmurakami.github.io/vendor/bundle/ruby/3.2.0/gems/unf_ext-0.0.8.2/ext/unf_ext
+C:/Ruby32-x64/bin/ruby.exe extconf.rb
+checking for -lstdc++... yes
+creating Makefile
+
+current directory: C:/Users/Meg/Documents/margaretmurakami.github.io/vendor/bundle/ruby/3.2.0/gems/unf_ext-0.0.8.2/ext/unf_ext
+make DESTDIR\= sitearchdir\=./.gem.20230930-15228-yisi1i sitelibdir\=./.gem.20230930-15228-yisi1i clean
+
+current directory: C:/Users/Meg/Documents/margaretmurakami.github.io/vendor/bundle/ruby/3.2.0/gems/unf_ext-0.0.8.2/ext/unf_ext
+make DESTDIR\= sitearchdir\=./.gem.20230930-15228-yisi1i sitelibdir\=./.gem.20230930-15228-yisi1i
+generating unf_ext-x64-mingw-ucrt.def
+compiling unf.cc
+linking shared-object unf_ext.so
+
+current directory: C:/Users/Meg/Documents/margaretmurakami.github.io/vendor/bundle/ruby/3.2.0/gems/unf_ext-0.0.8.2/ext/unf_ext
+make DESTDIR\= sitearchdir\=./.gem.20230930-15228-yisi1i sitelibdir\=./.gem.20230930-15228-yisi1i install
+/usr/bin/install -c -m 0755 unf_ext.so ./.gem.20230930-15228-yisi1i
+
+current directory: C:/Users/Meg/Documents/margaretmurakami.github.io/vendor/bundle/ruby/3.2.0/gems/unf_ext-0.0.8.2/ext/unf_ext
+make DESTDIR\= sitearchdir\=./.gem.20230930-15228-yisi1i sitelibdir\=./.gem.20230930-15228-yisi1i clean
