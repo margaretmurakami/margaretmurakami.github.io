@@ -26,8 +26,6 @@ Feynman R., The theory of positrons. <i>Phys. Rev.</i> (1949)
 
 ### About me
 
-I am a physicist working in the field of quantum mechanics and quantum electrodynamics.
-I received my undergraduate degree in physics from the Massachusetts Institute of Technology (MIT) in 1939 and went on to earn my PhD from Princeton University in 1942.
-After completing my doctoral studies, I worked on the Manhattan Project, where I helped develop the first atomic bombs.
-After the war, I returned to academia, holding teaching and research positions at Cornell and now the California Institute of Technology.
-
+I am a Ph.D. student in the Department of Earth and Planetary Science at the University of Texas at Austin. More specifically, I work with <a href="https://heimbach.wordpress.com/">Patrick Heimbach</a> in the <a href="https://crios-ut.github.io/">Computational Research in Ice and Ocean Systems group</a> (CRIOS). While my background is more in geophysics, the CRIOS group is based at the Oden Institute for Computational Engineering and Sciences. My current research focus is on studying water mass transformations in the North Atlantic using the MIT General Circulation Model (MITgcm) as a member of the NASA-funded Estimating the Circulation of the Climate and Ocean (ECCO) consortium.<br><br>
+Before starting as a UT graduate student in 2023, I earned my M.Sc. in hydrosphere geophysics at Helsinki University working with Petteri Uotila and <a href="https://aleksinummelin.github.io/">Aleksi Nummelin</a>. My thesis, <a href="Water Mass Transformations Within Prydz Bay Coastal Polynyas from Clustered Drifters">Water Mass Transformations Within Prydz Bay Coastal Polynyas from Clustered Drifters</a> used a regional ocean model to study Southern Ocean overturning and associated water mass transformations in East Antarctica.<br><br>
+Before this still, I graduated with a B.Sc. in Geology at the University of Texas at Austin. My undergraduate research was with <a href="https://www.jsg.utexas.edu/sb/">Sahar Bakhshian</a> on modeling porous-scale fluid flow.<br><br>Outside of work, I try to spend time with my two pet rabbits, and enjoy dancing and studying linguistics.
