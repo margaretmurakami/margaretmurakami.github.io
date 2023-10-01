@@ -18,16 +18,16 @@ years: [2016, 2017, 2018, 2019, 2020, 2021]
 
 <div class="jumbotron">
 ### Preprints
-Water Mass Transformations Within Antarctic Coastal Polynyas of Prydz Bay from Clustered Drifters
+Murakami, M., Nummelin, A., Galton-Fenzi, B.K., Uotila, P. (2023). Water Mass Transformations Within Antarctic Coastal Polynyas of Prydz Bay from Clustered Drifters. <em>Journal of Geophysical Research: Oceans.</em>, submitted. <a href="https://essopenarchive.org/doi/full/10.22541/essoar.169228932.20068035">DOI: 10.22541/essoar.169228932.20068035/v2</a>
 </div>
 
 <div class="jumbotron">
 ### Journal Articles
-Scaling of imbibition front dynamics in heterogeneous porous media
+Bakhshian, S., Murakami, M., Hosseini, S.A., Kang, Q. (2020). Scaling of Imbibition Front Dynamics in Heterogeneous Porous Media. <em>Geophysical Research Letters</em>, 47, e2020GL087914. <a href="https://doi.org/10.1029/2020GL087914">https://doi.org/10.1029/2020GL087914</a>
 </div>
 
 <div class="jumbotron">
 ### Posters, Conferences, and Theses
-A High Performance Lattice Boltzmann Solver with Applications to Multiphase Flow in Porous Media<br>
-Pore-scale study of spontaneous imbibition in fractured rocks using the lattice Boltzmann method
+Murakami, M. (2023). Water Mass Transformations Within Prydz Bay Coastal Polynyas from Clustered Drifters. <em>University of Helsinki Open Repository</em>. <a href="http://hdl.handle.net/10138/357675>http://hdl.handle.net/10138/357675</a><br><br>
+Murakami, M., Bakhshian, S., Hosseini, S.A. (2019). A High Performance Lattice Boltzmann Solver with Applications to Multiphase Flow in Porous Media. <em>TACCSTER 2019 Proceedings</em>. <a href="http://dx.doi.org/10.26153/tsw/6851">http://dx.doi.org/10.26153/tsw/6851</a>
 </div>
