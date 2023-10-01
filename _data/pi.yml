@@ -1,21 +1,21 @@
-- name: Dr. Richard Feynman
+- name: Margaret Murakami
   photo: headshot.jpg
-  info: Richard C. Tolman Professor, California Institute of Technology
-  email: richard@university.edu
-  github: https://github.com/
-  researchgate: https://www.researchgate.net/
-  scholar: https://scholar.google.com/citations?user=B7vSqZsAAAAJ
+  info: Ph.D. student, The University of Texas at Austin
+  email: mmurakami@utexas.edu
+  github: https://github.com/margaretmurakami
+  researchgate: https://www.researchgate.net/profile/Margaret-Murakami
+  scholar: https://scholar.google.com.au/citations?user=Fy-ae74AAAAJ&hl=en
   cv: cv/cv.pdf
   # Change the number below to the number of "educations" you have (up to 6)
   number_educ: 2
-  education1: "(1942) Ph.D. Physics, Princeton University"
-  education2: "(1939) B.S. Physics, Massachusetts Institute of Technology"
+  education1: "(2023) M.Sc. Atmospheric Sciences, Helsinki University"
+  education2: "(2021) B.Sc. Geosciences, The University of Texas at Austin"
   # education3: 
   # education4: 
   # education5: 
   # education6: 
-  education1short: (1942) Ph.D. Physics, Princeton
-  education2short: (1939) B.S. Physics, MIT
+  education1short: (2023) M.Sc. Atmos. Sciences, Helsinki U.
+  education2short: (1939) B.Sc. Geosciences, UT Austin
   # education3short: 
   # education4short: 
   # education5short: 
