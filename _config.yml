@@ -27,7 +27,7 @@ contact: >
 
 # Pages shown in navbar
 nav_pages:
-  - name: cv
+  - name: about
   - name: publications
   - name: reviews
 
