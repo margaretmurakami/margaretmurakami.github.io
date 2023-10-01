@@ -28,6 +28,6 @@ Bakhshian, S., Murakami, M., Hosseini, S.A., Kang, Q. (2020). Scaling of Imbibit
 
 <div class="jumbotron">
 ### Posters, Conferences, and Theses
-Murakami, M. (2023). Water Mass Transformations Within Prydz Bay Coastal Polynyas from Clustered Drifters. <em>University of Helsinki Open Repository</em>. <a href="http://hdl.handle.net/10138/357675>http://hdl.handle.net/10138/357675</a><br><br>
+Murakami, M. (2023). Water Mass Transformations Within Prydz Bay Coastal Polynyas from Clustered Drifters. <em>University of Helsinki Open Repository</em>. <a href="http://hdl.handle.net/10138/357675">http://hdl.handle.net/10138/357675</a><br><br>
 Murakami, M., Bakhshian, S., Hosseini, S.A. (2019). A High Performance Lattice Boltzmann Solver with Applications to Multiphase Flow in Porous Media. <em>TACCSTER 2019 Proceedings</em>. <a href="http://dx.doi.org/10.26153/tsw/6851">http://dx.doi.org/10.26153/tsw/6851</a>
 </div>
