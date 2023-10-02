@@ -58,6 +58,8 @@ kramdown:
 
 plugins: ['jekyll/scholar']
 
+google_analytics: G-Y0S0FH2BHK
+
 scholar:
 
   last_name: Doe
