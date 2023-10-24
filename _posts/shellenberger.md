@@ -3,6 +3,7 @@ title: "Book Review: Michael Shellenberger’s Apocalypse Never as commentary on
 layout: post
 sitemap: true
 permalink: /shellenberger/
+url: /shellenberger/
 ---
 
 |![jsg.jpg](/images/shellenberger.jpg)
