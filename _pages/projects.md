@@ -5,7 +5,7 @@ layout: splash
 entries_layout: grid
 author_profile: true
 
-feature_row:
+feature_row_1:
   - image_path: /images/jsg.jpg
     image_caption: "Source: "
     alt: "Test"
@@ -17,5 +17,5 @@ feature_row:
 
 ---
 
-{% include feature_row type="left"%}
+{% include feature_row id="feature_row_1" type="left"%}
 w
