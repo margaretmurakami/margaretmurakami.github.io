@@ -16,14 +16,16 @@ related: true
     margin-top:10px;
     margin-bottom:30px;
 }
+
+.image{
+    float: left;    
+    margin: 0 15px 0 0;
+    width: 25%;
+}
+    
 </style>
 
 <div class="jumbotron">
-<img src="/images/shellenberger.jpg" alt="shellenberger">>
-<ul>
-    <li>
-      <a href="/shellenberger">{{"Book Review of Michael Shellenberger"}}</a>
-    </li>
-</ul>
-
+<img src="/images/shellenberger.jpg" alt="shellenberger" class="image">
+A book review of Apocalypse Never by Michael Shellenberger. Read <a href="/shellenberger">here</a>.
 </div>
