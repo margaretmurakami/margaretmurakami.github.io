@@ -1,9 +1,6 @@
 ---
 title: "Projects"
 permalink: /projects/
-layout: splash
-entries_layout: grid
-author_profile: true
 
 feature_row_1:
   - image_path: /images/jsg.jpg
@@ -16,5 +13,5 @@ feature_row_1:
     btn_class: "btn--primary"
 
 ---
-
+###Some text
 {% include feature_row.html id="feature_row_1" type="left"%}
