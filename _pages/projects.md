@@ -27,5 +27,6 @@ related: true
 
 <div class="jumbotron">
 <img src="/images/shellenberger.jpg" alt="shellenberger" class="image">
-A book review of Apocalypse Never by Michael Shellenberger. Read <a href="/shellenberger">here</a>.
+<strong>Book Review: Michael Shellenberger</strong><br>
+A book review of <em>Apocalypse Never</em> by Michael Shellenberger. This book cautions against alarmism surround climate change policy and proposes potential solutions to the global energy crisis. Read my thoughts <a href="/shellenberger">here</a>.
 </div>
