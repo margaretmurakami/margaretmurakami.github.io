@@ -1,12 +1,12 @@
 ---
-title: "Bayesian Inverse Methods for Ice Sheet Model Calibration and Reconstruction"
+title: "Book Review: Michael Shellenberger’s Apocalypse Never as commentary on secular dialogue"
 layout: archive
 sitemap: true
 author_profile: true
-permalink: /greenlandInversion/
+permalink: /shellenberger/
 ---
 
-|![greenlandRadar.jpeg](/assets/images/greenlandRadar.jpeg)
+|![jsg.jpg](/images/jsg.jpg)
 |:--:|
 | Radar image of the Greenland ice sheet. The ice surface and the ice-bedrock interface are shown in red. This section from North-East Greenland is 160 km long and collected in an area where the ice is frozen to the bedrock and the shape of the internal layers follow the bedrock topography. Courtesy Center for Remote Sensing of Ice Sheets, CReSIS. |
 
