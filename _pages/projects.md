@@ -29,5 +29,5 @@ This page is in progress.
 
 <div class="jumbotron">
 ### Book Review: Michael Shellenberger
-<a href=https://margaretmurakami.github.io/shellenberger/>Sample link to review.</a>
+<a href="https://margaretmurakami.github.io/shellenberger/">Sample link to review.</a>
 </div>
