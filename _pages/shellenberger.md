@@ -6,9 +6,9 @@ author_profile: true
 permalink: /shellenberger/
 ---
 
-|![jsg.jpg](/images/jsg.jpg)
+|![jsg.jpg](/images/shellenberger.jpg)
 |:--:|
-| Radar image of the Greenland ice sheet. The ice surface and the ice-bedrock interface are shown in red. This section from North-East Greenland is 160 km long and collected in an area where the ice is frozen to the bedrock and the shape of the internal layers follow the bedrock topography. Courtesy Center for Remote Sensing of Ice Sheets, CReSIS. |
+| Michael Shellenberger wrote Apocalypse Never: Why Environmental Alarmism Hurts Us All in 2020. |
 
 Apocalypse Never by Michael Shellenberger offers a commentary on the climate and energy dialogues, weaving together personal anecdotes, critiques of the political left, and justifications of nuclear energy expansion. While he easily navigates the nuances of environmental justice, his book falls prey to some severe misrepresentations of climate data. Shellenberger addresses a key cultural issue: How can we discuss climate change in a world that is in dire need of energy? Yet, his overwhelming bitterness casts a shadow over his best arguments.
 
