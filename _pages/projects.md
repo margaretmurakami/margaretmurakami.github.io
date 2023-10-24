@@ -19,12 +19,11 @@ related: true
 </style>
 
 <div class="jumbotron">
+<img src="/images/shellenberger.jpg" alt="shellenberger">>
 <ul>
-  {% for post in site.posts %}
     <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
+      <a href="/shellenberger">{{"Book Review of Michael Shellenberger"}}</a>
     </li>
-  {% endfor %}
 </ul>
 
 </div>
