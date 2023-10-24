@@ -1,6 +1,8 @@
 ---
 title: "Projects"
 permalink: /projects/
+layout: gridlay
+sitemap: false
 
 feature_row_1:
   - image_path: /images/jsg.jpg
@@ -13,5 +15,5 @@ feature_row_1:
     btn_class: "btn--primary"
 
 ---
-###Some text
+This page is in progress.
 {% include feature_row.html id="feature_row_1" type="left"%}
