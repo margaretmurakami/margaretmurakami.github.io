@@ -16,4 +16,18 @@ feature_row_1:
 
 ---
 This page is in progress.
-{% include feature_row.html id="feature_row_1" type="left"%}
+
+<style>
+.jumbotron{
+    padding:3%;
+    padding-bottom:10px;
+    padding-top:10px;
+    margin-top:10px;
+    margin-bottom:30px;
+}
+</style>
+
+<div class="jumbotron">
+### Book Review: Michael Shellenberger
+<a url=/shellenberger/>Link</a>
+</div>
