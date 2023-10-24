@@ -1,8 +1,7 @@
 ---
 title: "Book Review: Michael Shellenberger’s Apocalypse Never as commentary on secular dialogue"
-layout: archive
+layout: single
 sitemap: true
-author_profile: true
 permalink: /shellenberger/
 ---
 
