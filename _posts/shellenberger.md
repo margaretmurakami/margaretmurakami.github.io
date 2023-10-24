@@ -6,9 +6,8 @@ permalink: /shellenberger/
 url: /shellenberger/
 ---
 
-<div align="center">
-    <img src="/images/shellenberger.jpg" alt="shellenberger.jpg" width="500px"/>
-</div>
+|![shellenberger.jpg](/images/shellenberger.jpg)
+|:--:|
 
 Apocalypse Never by Michael Shellenberger offers a commentary on the climate and energy dialogues, weaving together personal anecdotes, critiques of the political left, and justifications of nuclear energy expansion. While he easily navigates the nuances of environmental justice, his book falls prey to some severe misrepresentations of climate data. Shellenberger addresses a key cultural issue: How can we discuss climate change in a world that is in dire need of energy? Yet, his overwhelming bitterness casts a shadow over his best arguments.
 
