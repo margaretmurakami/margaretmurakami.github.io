@@ -3,7 +3,7 @@ title: "Book Review: Michael Shellenberger’s Apocalypse Never as commentary on
 layout: archive
 sitemap: true
 author_profile: true
-permalink: /shellenberger/
+permalink: /old/
 ---
 
 Apocalypse Never by Michael Shellenberger offers a commentary on the climate and energy dialogues, weaving together personal anecdotes, critiques of the political left, and justifications of nuclear energy expansion. While he easily navigates the nuances of environmental justice, his book falls prey to some severe misrepresentations of climate data. Shellenberger addresses a key cultural issue: How can we discuss climate change in a world that is in dire need of energy? Yet, his overwhelming bitterness casts a shadow over his best arguments.
