@@ -5,6 +5,8 @@ sitemap: true
 permalink: /shellenberger/
 url: /shellenberger/
 ---
+October 25, 2023
+
 Apocalypse Never by Michael Shellenberger offers a commentary on the climate and energy dialogues, weaving together personal anecdotes, critiques of the political left, and justifications of nuclear energy expansion. While he easily navigates the nuances of environmental justice, his book falls prey to some severe misrepresentations of climate data. Shellenberger addresses a key cultural issue: How can we discuss climate change in a world that is in dire need of energy? Yet, his overwhelming bitterness casts a shadow over his best arguments.
 
 I picked up this 2020 book to round out my awareness of the more conservative takes on climate change. Shellenberger believes that climate anxiety arises out of ignorance of the “basic facts” about climate change. Furthermore, he thinks that the solutions to a global energy shortage are obvious. His thesis argues against an apocalyptic view of the climate as well as many renewable energy solutions in favor of what he calls “rational environmentalism” and a nuclear-heavy energy future.
