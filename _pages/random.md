@@ -26,7 +26,7 @@ related: true
 </style>
 
 <div class="jumbotron">
-<img src="/images/klein.jpg" alt="klein" class="image">
+<img src="/images/klein.jpg" alt="klein" class="image" style="float: right;">
 <strong>Book Review: Naomi Klein</strong><br>
 A book review of <em>This Changes Everything</em> by Naomi Klein. The author offers a critique of capitalism and underlines the importance of social movements in the context of the climate crisis. Read <a href="/klein">here</a>.
 </div>
