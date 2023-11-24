@@ -26,6 +26,12 @@ related: true
 </style>
 
 <div class="jumbotron">
+<img src="/images/klein.jpg" alt="klein" class="image">
+<strong>Book Review: Naomi Klein</strong><br>
+A book review of <em>This Changes Everything</em> by Naomi Klein. The author offers a critique of capitalism and underlines the importance of social movements in the context of the climate crisis. Read <a href="/klein">here</a>.
+</div>
+
+<div class="jumbotron">
 <img src="/images/shellenberger.jpg" alt="shellenberger" class="image">
 <strong>Book Review: Michael Shellenberger</strong><br>
 A book review of <em>Apocalypse Never</em> by Michael Shellenberger. This book cautions against alarmism surrounding climate change policy and proposes potential solutions to the global energy crisis. Read my thoughts <a href="/shellenberger">here</a>.
