@@ -12,9 +12,5 @@ permalink: /allnews.html
 <b>{{ article.date }}</b>
 <p>{{ article.headline }}</p>
 
-{% if article.video_link %}
-      <p>Video link <a href="{{ article.video_link }}">here</a></p>
-{% endif %}
-
 {% endfor %}
 </div>
