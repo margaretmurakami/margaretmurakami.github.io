@@ -56,13 +56,9 @@ kramdown:
   enable_coderay: false
   parse_block_html: true # default for kramdown is false. This will enable using Markdown links
 
-collections:
-  news:
-    output: true
 
 plugins:
   - jekyll/scholar
-  - jekyll-feed
 
 google_analytics: G-Y0S0FH2BHK
 
