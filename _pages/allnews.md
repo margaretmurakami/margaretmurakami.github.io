@@ -13,11 +13,11 @@ permalink: /allnews.html
     <p>{{ article.headline }}</p>
   
     {% if article.link %}
-      <p>Article link <a href="{{ article.link }}">here</a></p>
+        <p>Article link <a href="{{ article.link }}">here</a></p>
     {% endif %}
   
     {% if article.video_link %}
-      <p>Video link <a href="{{ article.video_link }}">here</a></p>
+        <p>Video link <a href="{{ article.video_link }}">here</a></p>
     {% endif %}
   
   {% endfor %}
