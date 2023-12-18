@@ -11,7 +11,10 @@ permalink: /allnews.html
 {% for article in site.data.news %}
 <b>{{ article.date }}</b>
 <p>{{ article.headline }}</p>
-<p>Video link <a href="{{ article.video_link }}">here</a></p>
+
+{% if article.video_link %}
+      <p>Video link <a href="{{ article.video_link }}">here</a></p>
+{% endif %}
 
 {% endfor %}
 </div>
