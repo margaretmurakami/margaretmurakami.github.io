@@ -11,7 +11,7 @@ A hydrocarbon-fueled future is alive and well in the eyes of Alex Epstein, autho
 
 It would be easiest to disseminate Epstein’s text by his own standards of reviewing climate change claims:
 
-“1. They give clear explanations of the evidence for their views rather than just invoking authority.”
+<strong>“1. They give clear explanations of the evidence for their views rather than just invoking authority.”</strong>
 Clear explanations are arguably Epstein’s forte. He proposes a moral argument for fossil fuels, emphasizing that human progress has accelerated through their use. He suggests that substantial infrastructure development–through the use of oil and gas–will help both developed and developing nations. We will adapt to the environment we create with continued economic development, irrespective of how hot it will be. 
 
 Some critics of Fossil Future have taken issue with the morality of Epstein’s claims; he essentially disregards mass die-offs of fish and extinction of other species, property loss due to sea-level rise, and exploitation of workers in developing nations to acquire fossil resources. I will not attempt to argue these points. To find any merit in Epstein’s book, one must accept that there will be sacrifices. Epstein’s belief is that the advantages of fossil fuel development dramatically outweigh its drawbacks.
