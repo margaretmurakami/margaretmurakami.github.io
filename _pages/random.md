@@ -26,6 +26,12 @@ related: true
 </style>
 
 <div class="jumbotron">
+<img src="/images/epstein.jpeg" alt="epstein" class="image">
+<strong>Book Review: Alex Epstein</strong><br>
+A book review of <em>Fossil Future</em> by Alex Epstein. The author argues in favor of the continued need for fossil fuels despite the climate crisis. Read <a href="/epstein">here</a>.
+</div>
+
+<div class="jumbotron">
 <img src="/images/klein.jpg" alt="klein" class="image" style="float: right;">
 <strong>Book Review: Naomi Klein</strong><br>
 A book review of <em>This Changes Everything</em> by Naomi Klein. The author offers a critique of capitalism and underlines the importance of social movements in the context of the climate crisis. Read <a href="/klein">here</a>.
