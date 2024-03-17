@@ -26,6 +26,12 @@ related: true
 </style>
 
 <div class="jumbotron">
+<img src="/images/carson.jpg" alt="carson" class="image" style="float: right;">
+<strong>Book Review: Rachel Carson</strong><br>
+Reviewing a classic in environmental literature. Here, I read <em>Silent Spring</em> by Rachel Carson. The author writes about the widespread impacts of pesticides like DDT and calls for more responsible treatment of the Earth. Read <a href="/carson">here</a>.
+</div>
+
+<div class="jumbotron">
 <img src="/images/epstein.jpeg" alt="epstein" class="image">
 <strong>Book Review: Alex Epstein</strong><br>
 A book review of <em>Fossil Future</em> by Alex Epstein. The author argues in favor of the continued need for fossil fuels despite the climate crisis. Read <a href="/epstein">here</a>.
