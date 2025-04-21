@@ -16,10 +16,6 @@ years: [2016, 2017, 2018, 2019, 2020, 2021]
 }
 </style>
 
-<div class="jumbotron">
-### Preprints
-Murakami, M., Nummelin, A., Galton-Fenzi, B.K., Uotila, P. (2023). Water Mass Transformations Within Antarctic Coastal Polynyas of Prydz Bay from Clustered Drifters. <em>Journal of Geophysical Research: Oceans.</em>, submitted. <a href="https://essopenarchive.org/doi/full/10.22541/essoar.169228932.20068035">DOI: 10.22541/essoar.169228932.20068035/v2</a>
-</div>
 
 <div class="jumbotron">
 ### Journal Articles
