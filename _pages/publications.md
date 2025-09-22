@@ -19,6 +19,8 @@ years: [2016, 2017, 2018, 2019, 2020, 2021]
 
 <div class="jumbotron">
 ### Journal Articles
+Murakami, M., Nummelin, A., Galton-Fenzi, B.K., Uotila, P. (2025). Initial transformation and export of dense shelf water from the Prydz Bay and Cape Darnley regions: A Lagrangian perspective using clustered drifters. <em>Polar Science</em>, 101261, 1873-9652. <a href="https://doi.org/10.1016/j.polar.2025.101261">https://doi.org/10.1016/j.polar.2025.101261</a><br><br>
+
 Bakhshian, S., Murakami, M., Hosseini, S.A., Kang, Q. (2020). Scaling of Imbibition Front Dynamics in Heterogeneous Porous Media. <em>Geophysical Research Letters</em>, 47, e2020GL087914. <a href="https://doi.org/10.1029/2020GL087914">https://doi.org/10.1029/2020GL087914</a>
 </div>
 
