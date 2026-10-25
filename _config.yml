@@ -19,10 +19,6 @@ contact: >
 
 # Pages shown in navbar
 nav_pages:
-  - name: about
-    label: About
-  - name: engineering
-    label: Engineering
   - name: publications
     label: Publications
   - name: random
