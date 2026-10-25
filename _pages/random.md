@@ -1,5 +1,5 @@
 ---
-title: "Posts"
+title: "Notes"
 layout: default
 permalink: "random/"
 author_profile: true

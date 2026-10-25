@@ -1,7 +1,6 @@
 # Site settings
 title: Margaret Murakami
-email: mmurakami@utexas.edu
-description: Personal webpage of Margaret Murakami
+description: Margaret Murakami — thermal engineer focused on CFD, heat transfer, and electronics cooling.
 baseurl: ""
 url: ""
 
@@ -12,25 +11,22 @@ url: ""
 
 # Footer info
 affiliation: >
-    Margaret Murakami<br/>
-    Ph.D. Student of Geophysics<br/>
-    The University of Texas at Austin
-
-location: >
-  Oden Institute for Computational Engineering and Sciences<br/>
-  201 E 24th St<br/>
-  Austin, TX 78712
+    Thermal Engineer<br/>
+    CFD and Electronics Cooling
 
 contact: >
-    <a href="mailto:mmurakami@utexas.edu" target="_blank"><i class="fa fa-envelope fa-1x"></i> Contact Meg via email</a> <br/>
-    <a href="https://github.com/margaretmurakami"><i class="fa fa-github fa-1x"></i> See my recent projects!</a> <br/>
-    <a href="https://twitter.com/mmurakami579"><i class="fa fa-twitter fa-1x"></i> Read my recent posts on X</a>
+    <a href="https://github.com/margaretmurakami">GitHub projects ↗</a>
 
 # Pages shown in navbar
 nav_pages:
   - name: about
+    label: About
+  - name: engineering
+    label: Engineering
   - name: publications
+    label: Publications
   - name: random
+    label: Notes
 
 include:
   - .htaccess

@@ -1,23 +1,4 @@
 - name: Margaret Murakami
   photo: headshot.jpg
-  info: Ph.D. student, The University of Texas at Austin
-  email: mmurakami@utexas.edu
+  info: Thermal Engineer · CFD · Electronics Cooling
   github: https://github.com/margaretmurakami
-  researchgate: https://www.researchgate.net/profile/Margaret-Murakami
-  scholar: https://scholar.google.com.au/citations?user=Fy-ae74AAAAJ&hl=en
-  twitter: https://twitter.com/mmurakami579
-  cv: cv/cv.pdf
-  # Change the number below to the number of "educations" you have (up to 6)
-  number_educ: 2
-  education1: "(2023) M.Sc. Atmospheric Sciences, Helsinki University"
-  education2: "(2021) B.Sc. Geosciences, The University of Texas at Austin"
-  # education3: 
-  # education4: 
-  # education5: 
-  # education6: 
-  education1short: (2023) M.Sc. Atmospheric Sci., Helsinki University
-  education2short: (2021) B.Sc. Geosciences, UT Austin
-  # education3short: 
-  # education4short: 
-  # education5short: 
-  # education6short: 

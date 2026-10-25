@@ -1,27 +1,18 @@
-<br/>
 <section id="footer">
 <div class="container-footer">
-  <div class="panel-footer">
-	  <div class="row">
-		<div class="col-sm-4">
-		    <h5>About</h5>	
-            <p>{{ site.affiliation }}</p>
-		</div>
-
-		<div class="col-sm-4">
-		    <h5>Contact</h5>	
-            <p>{{ site.contact }}</p>
-		</div>
-
-		<div class="col-sm-4">
-		    <h5>Coordinates</h5>	
-            <p>{{ site.location }}</p>
-		</div>
-	  </div>
-      <center><p>&copy {{ "now" | date: "%Y" }} {{site.title | escape }} </p></center>
-	</div>
-  </div>
+    <div class="footer-content">
+      <div>
+        <h2>{{ site.title | escape }}</h2>
+        <p>{{ site.affiliation }}</p>
+      </div>
+      <div class="footer-contact">
+        <h3>Connect</h3>
+        <p>{{ site.contact }}</p>
+      </div>
+    </div>
+    <p class="footer-copyright">&copy; {{ "now" | date: "%Y" }} {{ site.title | escape }}</p>
 </div>
+</section>
 
 <script src="{{ "/assets/javascript/bootstrap/jquery.min.js" | relative_url }}"></script>
 <script src="{{ "/assets/javascript/bootstrap/bootstrap.bundle.min.js" | relative_url }}"></script>

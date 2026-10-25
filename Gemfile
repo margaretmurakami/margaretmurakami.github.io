@@ -9,7 +9,6 @@ gem "kramdown-parser-gfm"
 gem 'jekyll-scholar'
 gem "webrick", "~> 1.7"
 
-# the following are examples taken from the crios github
 source "https://rubygems.org"
 gem "jekyll-remote-theme"
 # If you do not want to use GitHub Pages, comment out the line below, then run bundle update.
